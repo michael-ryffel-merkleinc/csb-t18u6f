@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://michael-ryffel-merkleinc.github.io/csb-t18u6f/static/js/main.c66be1d5.chunk.js",
+    "main.js.map": "https://michael-ryffel-merkleinc.github.io/csb-t18u6f/static/js/main.c66be1d5.chunk.js.map",
+    "runtime-main.js": "https://michael-ryffel-merkleinc.github.io/csb-t18u6f/static/js/runtime-main.55d81420.js",
+    "runtime-main.js.map": "https://michael-ryffel-merkleinc.github.io/csb-t18u6f/static/js/runtime-main.55d81420.js.map",
+    "static/js/2.9b06aad0.chunk.js": "https://michael-ryffel-merkleinc.github.io/csb-t18u6f/static/js/2.9b06aad0.chunk.js",
+    "static/js/2.9b06aad0.chunk.js.map": "https://michael-ryffel-merkleinc.github.io/csb-t18u6f/static/js/2.9b06aad0.chunk.js.map",
+    "index.html": "https://michael-ryffel-merkleinc.github.io/csb-t18u6f/index.html",
+    "static/js/2.9b06aad0.chunk.js.LICENSE.txt": "https://michael-ryffel-merkleinc.github.io/csb-t18u6f/static/js/2.9b06aad0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55d81420.js",
+    "static/js/2.9b06aad0.chunk.js",
+    "static/js/main.c66be1d5.chunk.js"
+  ]
+}
